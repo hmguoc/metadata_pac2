@@ -1,5 +1,5 @@
 {
-	"tokens": [{
+	"metadata": [{
 			"id": "1",
 			"name": "DFS",
 			"description": "Optimized algorithm for traversing or searching tree or graph data structures",
