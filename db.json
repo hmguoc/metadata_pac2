@@ -1,0 +1,14 @@
+[
+	{
+		"id" : "1",
+		"name" : "DFS",
+		"description" : "Optimized algorithm for traversing or searching tree or graph data structures",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
+	},
+	{
+		"id" : "2",
+		"name" : "Reverse Integer",
+		"description" : "Optimized algorithm to reverse a specific integer",
+		"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
+	}
+]
